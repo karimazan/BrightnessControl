@@ -69,7 +69,7 @@ Before you begin, ensure you have the following installed:
 
 The source code for the project is available in the hand_brightness_control.py file.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
