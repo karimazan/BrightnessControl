@@ -73,7 +73,7 @@ The source code for the project is available in the hand_brightness_control.py f
 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
-##Warnings
+## Warnings
 
   -Ensure your webcam is functioning correctly before running the script.
   -This project is designed to work on operating systems that support the libraries used.
